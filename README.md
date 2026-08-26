@@ -32,11 +32,56 @@ MongoDB
 Git • GitHub • VS Code • Antigravity
 
 ## 🚀 Featured Projects
-**🧠 DevMentor AI**
+# 🧠 DevMentor AI
 
 An AI-powered platform designed to help developers learn, build, and improve their technical skills.
 
-Tech Stack: React.js • Node.js • Express.js • MongoDB • AI
+DevMentor AI provides an interactive environment for developers to enhance their programming knowledge and explore AI-powered learning experiences.
+
+---
+
+## 🚀 Features
+
+- 🤖 AI-powered developer assistance
+- 💻 Interactive learning experience
+- 📚 Technical skill development
+- 🧠 Personalized learning support
+- ⚡ Modern and responsive user interface
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MongoDB
+
+---
+
+## 📂 Project Structure
+
+```text
+devmentor-ai
+│
+├── client/          # Frontend application
+│
+├── server/          # Backend application
+│
+├── .gitignore
+│
+└── README.md
 
 **💰 SpendWide**
 
