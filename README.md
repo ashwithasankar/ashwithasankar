@@ -74,44 +74,13 @@ DevMentor AI provides an interactive environment for developers to enhance their
 
 ```text
 devmentor-ai
+├── client/
+│   └── Frontend application
 │
-├── client/          # Frontend application
-│
-├── server/          # Backend application
+├── server/
+│   └── Backend application
 │
 ├── .gitignore
 │
 └── README.md
-
-**💰 SpendWide**
-
-A modern application focused on managing and simplifying financial workflows.
-
-Tech Stack: React.js • Node.js • Express.js • MongoDB
-
-**🐝 Hive Tech**
-
-A modern freelance web development platform focused on delivering professional digital experiences.
-
-Tech Stack: React.js • Node.js • Express.js • MongoDB
-
----
-
-### 📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/ashwitha-sankar-1762a3294 
-
-🌐 Portfolio: https://ashwitha-sankar-portfolio-beryl.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashwithasankar&hide_border=true)
-
-## 🌱 Currently Building
-
-* 🚀 Building scalable MERN stack applications
-* 🤖 Exploring AI-powered web applications
-* 💻 Continuously improving my software development skills
 
