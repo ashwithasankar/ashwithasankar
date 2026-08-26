@@ -1,8 +1,16 @@
-# Hi, I'm Ashwitha 👋
+<h1 align="center">Hi 👋, I'm Ashwitha</h1>
 
-### MERN Stack Developer | React.js | Node.js | MongoDB
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+scalable+web+applications;Exploring+AI-powered+products" alt="Typing SVG" />
+</p>
 
-Building scalable web applications and AI-powered products.
+<p align="center">
+  🚀 Building scalable web applications and AI-powered products.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashwithasankar&label=Profile%20Views&color=00C853&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -13,60 +21,53 @@ Building scalable web applications and AI-powered products.
 * 🤖 Interested in AI-powered applications and practical software solutions.
 * 💡 Focused on building projects that solve real-world problems.
 
+---
+
 ## 🛠️ Tech Stack
 
-**Frontend**
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,git,github,vscode" />
+
+</p>
+
+### 🚀 Frontend
 
 React.js • JavaScript • HTML5 • CSS3
 
-**Backend**
+### ⚙️ Backend
 
 Node.js • Express.js
 
-**Database**
+### 🗄️ Database
 
 MongoDB
 
-### Tools
+### 🧰 Tools
 
 Git • GitHub • VS Code • Antigravity
 
+---
+
 ## 🚀 Featured Projects
-# 🧠 DevMentor AI
+
+### 🧠 DevMentor AI
 
 An AI-powered platform designed to help developers learn, build, and improve their technical skills.
 
 DevMentor AI provides an interactive environment for developers to enhance their programming knowledge and explore AI-powered learning experiences.
 
----
+### ✨ Features
 
-## 🚀 Features
+* 🤖 AI-powered developer assistance
+* 💻 Interactive learning experience
+* 📚 Technical skill development
+* 🧠 Personalized learning support
+* ⚡ Modern and responsive user interface
 
-- 🤖 AI-powered developer assistance
-- 💻 Interactive learning experience
-- 📚 Technical skill development
-- 🧠 Personalized learning support
-- ⚡ Modern and responsive user interface
+### 🛠️ Tech Stack
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-
-### Backend
-
-- Node.js
-- Express.js
-
-### Database
-
-- MongoDB
+React.js • JavaScript • HTML5 • CSS3 • Node.js • Express.js • MongoDB
 
 ---
 
@@ -86,22 +87,42 @@ A modern freelance web development platform focused on delivering professional d
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Activity
 
-💼 LinkedIn: https://www.linkedin.com/in/ashwitha-sankar-1762a3294
-
-🌐 Portfolio: https://ashwitha-sankar-portfolio-beryl.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ashwithasankar&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ashwithasankar&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🌱 Currently Building
 
-- 🚀 Building scalable MERN stack applications
-- 🤖 Exploring AI-powered web applications
-- 💻 Continuously improving my software development skills
+<p>
+
+🚀 Building scalable MERN stack applications
+
+🤖 Exploring AI-powered web applications
+
+💻 Continuously improving my software development skills
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/ashwitha-sankar-1762a3294">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://ashwitha-sankar-portfolio-beryl.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Building. Learning. Improving. 🚀</i> ⭐
+</p>
