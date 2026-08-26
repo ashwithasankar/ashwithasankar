@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Ashwitha 👋
 
-<!--
-**ashwithasankar/ashwithasankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | React.js | Node.js | MongoDB
 
-Here are some ideas to get you started:
+Building scalable web applications and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+* 🚀 MERN Stack Developer passionate about building modern web applications.
+* 🌱 Continuously improving my skills in React.js, Node.js, JavaScript, and MongoDB.
+* 🤖 Interested in AI-powered applications and practical software solutions.
+* 💡 Focused on building projects that solve real-world problems.
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+React.js • JavaScript • HTML5 • CSS3
+
+**Backend**
+
+Node.js • Express.js
+
+**Database**
+
+MongoDB
+
+### Tools
+
+Git • GitHub • VS Code • Antigravity
+
+## 🚀 Featured Projects
+**🧠 DevMentor AI**
+
+An AI-powered platform designed to help developers learn, build, and improve their technical skills.
+
+Tech Stack: React.js • Node.js • Express.js • MongoDB • AI
+
+**💰 SpendWide**
+
+A modern application focused on managing and simplifying financial workflows.
+
+Tech Stack: React.js • Node.js • Express.js • MongoDB
+
+**🐝 Hive Tech**
+
+A modern freelance web development platform focused on delivering professional digital experiences.
+
+Tech Stack: React.js • Node.js • Express.js • MongoDB
+
+---
+
+### 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/ashwitha-sankar-1762a3294 
+
+🌐 Portfolio: https://ashwitha-sankar-portfolio-beryl.vercel.app/
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwithasankar&show_icons=true&count_private=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ashwithasankar&hide_border=true)
+
+## 🌱 Currently Building
+
+* 🚀 Building scalable MERN stack applications
+* 🤖 Exploring AI-powered web applications
+* 💻 Continuously improving my software development skills
+
