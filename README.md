@@ -62,8 +62,6 @@ Tech Stack: React.js • Node.js • Express.js • MongoDB
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwithasankar&show_icons=true&count_private=true&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ashwithasankar&hide_border=true)
 
 ## 🌱 Currently Building
