@@ -70,21 +70,6 @@ DevMentor AI provides an interactive environment for developers to enhance their
 
 ---
 
-## 📂 Project Structure
-
-```text
-devmentor-ai
-├── client/
-│   └── Frontend application
-│
-├── server/
-│   └── Backend application
-│
-├── .gitignore
-│
-└── README.md
----
-
 ## 💰 SpendWide
 
 A modern application focused on managing and simplifying financial workflows.
